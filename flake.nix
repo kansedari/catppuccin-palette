@@ -51,7 +51,7 @@
 
             outputHashAlgo = "sha256";
             outputHashMode = "recursive";
-            outputHash = "sha256-meMlFd8ha2s2YZaz2QjAmaucUSvjW1oBwlgYuV69asI=";
+            outputHash = "sha256-1oEdniI0xaEgNLMoGIC/7FMLIJUmtD7Ba3GcoiFUbjQ=";
           };
 
           json = pkgs.stdenv.mkDerivation {
@@ -78,7 +78,7 @@
             '';
 
             outputHashAlgo = "sha256";
-            outputHash = "sha256-//OsJjEOw+Dc9C6MIwswOoOK8cDMo7eFpDwECD3k34Q=";
+            outputHash = "sha256-ed5w9LqQEpMyzA6Qnnse+bW54Kgj/55BjB95679irv4=";
           };
         };
 
