@@ -2,7 +2,7 @@
   "version": "1.7.1",
   "light": {
     "name": "Light",
-    "emoji": "☀️",
+    "emoji": "🌅",
     "order": 0,
     "dark": false,
     "colors": {
@@ -716,7 +716,7 @@
   },
   "dark": {
     "name": "Dark",
-    "emoji": "🌙",
+    "emoji": "🌌",
     "order": 1,
     "dark": true,
     "colors": {
